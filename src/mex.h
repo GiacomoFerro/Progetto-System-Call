@@ -1,8 +1,6 @@
 //definisco messaggio e valori identificativi per i tre programmi .c
 
 /*
-
-VR389882
 Giacomo Ferro
 21/6/2017
 Progetto System Call (Realizzazione libreria messaggio )
