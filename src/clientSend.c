@@ -11,8 +11,6 @@
 #include "mex.h"// il prototipo del messaggio 
 
 /*
-
-VR389882
 Giacomo Ferro
 21/6/2017
 Progetto System Call (Realizzazione ClientSend)
